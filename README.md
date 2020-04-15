@@ -1,1 +1,1 @@
-# guizmo2000-cdqaresults
+# Outputs CSV du CDQA pour challenge Kaggle covid-19
